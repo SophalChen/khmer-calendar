@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2026-08-13",
+    "lunarDay": 15,
+    "phase": "waning"
+  },
+  {
+    "date": "2026-08-14",
+    "lunarDay": 1,
+    "phase": "waxing"
+  },
+  {
+    "date": "2026-08-19",
+    "lunarDay": 6,
+    "phase": "waxing"
+  },
+  {
+    "date": "2026-08-20",
+    "lunarDay": 7,
+    "phase": "waxing"
+  },
+  {
+    "date": "2026-08-21",
+    "lunarDay": 8,
+    "phase": "waxing"
+  },
+  {
+    "date": "2026-08-28",
+    "lunarDay": 15,
+    "phase": "waxing"
+  },
+  {
+    "date": "2026-08-29",
+    "lunarDay": 1,
+    "phase": "waning"
+  }
+]
