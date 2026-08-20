@@ -1,0 +1,48 @@
+{
+  "name": "khmer-calendar",
+  "version": "0.1.0",
+  "description": "🇰🇭 A developer-friendly Khmer calendar library with Khmer lunar dates, Gregorian dates, Khmer time, and Cambodian public holidays.",
+  "type": "module",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "khmer",
+    "cambodia",
+    "calendar",
+    "khmer-calendar",
+    "lunar-calendar",
+    "khmer-date",
+    "cambodian-holidays"
+  ],
+  "author": "Sophal Chen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SophalChen/khmer-calendar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SophalChen/khmer-calendar/issues"
+  },
+  "homepage": "https://github.com/SophalChen/khmer-calendar",
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "typescript": "^7.0.2",
+    "vitest": "^4.1.11"
+  }
+}
